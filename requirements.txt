@@ -1,0 +1,4 @@
+openai==1.30.5
+llama-index==0.10.43
+streamlit==1.35.0
+docx2txt==0.8
