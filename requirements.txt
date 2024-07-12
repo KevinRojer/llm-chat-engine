@@ -7,3 +7,4 @@ msal==1.29.0
 cryptography==42.0.8
 requests==2.23.3
 python-dotenv==1.0.1
+Flask-Session==0.8.0
