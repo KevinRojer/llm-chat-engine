@@ -2,3 +2,7 @@ openai==1.30.5
 llama-index==0.10.43
 streamlit==1.35.0
 docx2txt==0.8
+flask==3.0.3
+msal==1.29.0
+cryptography==42.0.8
+requests==2.23.3
